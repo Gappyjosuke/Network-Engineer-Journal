@@ -52,5 +52,5 @@ Your design must define:
 
 [← Back ](/README.md)
 
-[DESIGN TEMPLATE FOR OPERATION 001](./Operations/OP-001-Bring-Online/DESIGN_TEMPLATE.md)
+[Design TEemplate for Operation 001](Operations/OP-001-Bring-Online/DESIGN_TEMPLATE.md)
 
