@@ -48,3 +48,9 @@ Your design must define:
 2. VLAN ID mappings and names.
 3. Hostname scheme for future multi-branch identification.
 4. Description tracking standard for live and dead interface ports.
+---
+
+[← Back ](./README.md)
+
+[DESIGN TEMPLATE FOR OPERATION 001](./Operations/OP-001-Bring-Online/DESIGN_TEMPLATE.md)
+
