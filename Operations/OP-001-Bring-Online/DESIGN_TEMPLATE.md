@@ -1,4 +1,4 @@
-[← Back](Operations/OP-001-Bring-Online)
+[← Back](/Operations/OP-001-Bring-Online)
 
 # Network Standard Blueprint v1.0
 
@@ -74,6 +74,6 @@
 
 ---
 
-[← Back](Operations/OP-001-Bring-Online)
+[← Back](/Operations/OP-001-Bring-Online)
 
 [Gappy's solutions](Operations/Solutions/gappy-solution.md)
