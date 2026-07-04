@@ -109,7 +109,7 @@ interface range fa0/23-24, gi0/2
 interface range gi0/0, gi0/2
  description # UNUSED-PORTS #
  shutdown
-
+```
 ---
 
 [← Back ](/README.md)
