@@ -50,7 +50,7 @@ Your design must define:
 4. Description tracking standard for live and dead interface ports.
 ---
 
-[← Back ](./README.md)
+[← Back ](/README.md)
 
 [DESIGN TEMPLATE FOR OPERATION 001](./Operations/OP-001-Bring-Online/DESIGN_TEMPLATE.md)
 
