@@ -1,3 +1,5 @@
+[← Back](Operations/OP-001-Bring-Online)
+
 # Network Standard Blueprint v1.0
 
 ### **Company:** UngaBhai Technologies  
@@ -69,3 +71,9 @@
 | **Unused/Decommissioned Interfaces Policy:** | |
 
 </div>
+
+---
+
+[← Back](Operations/OP-001-Bring-Online)
+
+[Gappy's solutions](Operations/Solutions/gappy-solution.md)
