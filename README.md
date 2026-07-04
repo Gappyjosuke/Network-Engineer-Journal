@@ -30,7 +30,7 @@ Every operation is evaluated against 5 critical production metrics, not raw test
 | Operation ID | Title | Difficulty | Core Objective |
 | :--- | :--- | :--- | :--- |
 | **`OP-001`** | [Bring UngaBhai Tech Online](./Operations/OP-001-Bring-Online) | 🟢 Junior | Subnetting, VLAN planning, naming conventions, and basic hardening. |
-
+| **`OP-002`** | [Deploy Head Office](./Operations/OP-002-Deploy-Head-Office) | 🟢 Junior | Implementing ROAS, trunking, DHCP pools, and live troubleshooting. |
 
 ---
 
