@@ -76,4 +76,4 @@
 
 [← Back](/Operations/OP-001-Bring-Online)
 
-[Gappy's solutions](Operations/Solutions/gappy-solution.md)
+[Gappy's solutions](/Operations/Solutions/gappy-solution.md)
