@@ -30,3 +30,8 @@ Every operation is evaluated against 5 critical production metrics, not raw test
 | Operation ID | Title | Difficulty | Core Objective |
 | :--- | :--- | :--- | :--- |
 | **`OP-001`** | [Bring UngaBhai Tech Online](./Operations/OP-001-Bring-Online) | 🟢 Junior | Subnetting, VLAN planning, naming conventions, and basic hardening. |
+
+
+---
+
+[Gappy's solutions for Operation 001](/Operations/Solutions/gappy-solution.md)
