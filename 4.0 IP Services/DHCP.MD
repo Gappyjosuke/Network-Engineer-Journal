@@ -1,4 +1,4 @@
-[*← Back to CCNA Index*](./README.md)
+[*← Back to CCNA Index*](../README.MD)
 
 # DHCP: The DORA Process & Mechanics
 
