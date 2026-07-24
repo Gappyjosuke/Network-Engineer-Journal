@@ -50,8 +50,3 @@
 
 > [!TIP]
 > I try to include references to official Cisco documentation, RFCs, IEEE standards and other authoritative resources whenever they are relevant to a topic.
-# CCNA Notes
-
-
-> [!TIP]
-> I try to include references to official Cisco documentation, RFCs, IEEE standards and other authoritative resources whenever they are relevant to a topic.
